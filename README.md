@@ -1,12 +1,4 @@
-### Hi there 👋
+### Hej med jer
 
-<!--
-**data1979maggio/data1979maggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- name: "data1979maggio'
-    location: 'Hadsten' 
-    bio: 'A bit of everything'
-    institution: ' working and studying'
+Det har også kun taget mig 2 timer at finde ud af, hvordan jeg laver en readme-fil LOL
     -->
